@@ -1,0 +1,9 @@
+
+
+base_url: ''
+database:
+  user: ''
+  name: ''
+  password: ''
+  host: 'localhost'
+  charset: 'utf-8'

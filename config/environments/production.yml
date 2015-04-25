@@ -1,0 +1,9 @@
+#Datos del entorno de desarrollo
+
+base_url: ''
+database:
+  user:
+  name:
+  password:
+  host:
+  charset:
